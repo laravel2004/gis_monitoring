@@ -19,6 +19,8 @@ export default function Dashboard() {
   const initialZoom = 13;
   const [mapCenter, setMapCenter] = useState(initialCenter);
   const [mapZoom, setMapZoom] = useState(initialZoom);
+
+  
   const {me} = useAuth();
   const { data, isLoading, error, isError } = me;
   const navigator = useRouter();
