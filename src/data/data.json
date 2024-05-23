@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "place": "PT. Sinergi Dimensi Informatika",
+    "LatLong": "-7.2717685022045835, 112.74254889814848",
+    "name": "Krisna Wahyu Setyawan",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 2,
+    "place": "PT. Sinergi Dimensi Informatika",
+    "LatLong": "-7.2717685022045835, 112.74254889814848",
+    "name": "Azis Zuhri Pratomo",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 3,
+    "place": "PT. Sinergi Dimensi Informatika",
+    "LatLong": "-7.2717685022045835, 112.74254889814848",
+    "name": "M. Roy Farchan",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 4,
+    "place": "PT. Sinergi Dimensi Informatika",
+    "LatLong": "-7.2717685022045835, 112.74254889814848",
+    "name": "Alan Tri Arbani Hidayat",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 5,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Vanessa Florentina Patricia",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 6,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Dimas Fahrul Putra Arismanto",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 7,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "images" : "/images/sindika.png",
+    "name": "Mochammad Rizal",
+    "status": "Online"
+  },
+  {
+    "id": 8,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "images" : "/images/sindika.png",
+    "name": "Arga Rafi Inal Murtadho",
+    "status": "Online"
+  },
+  {
+    "id": 9,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Arianto Zaki Hamdalah",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 10,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Ahmad Shonhaji",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 11,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Muhammad Fajrul Falah Subakti",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 12,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Dzikri Mutawakkil Al Hamdika",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 13,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Marits Ikmal Yasin",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 14,
+    "place": "PT. Maulidan Teknologi Kreatif",
+    "LatLong": "-7.293952165602049, 112.77709920716369",
+    "name": "Nicholaus Adhyatma Surya Kusuma",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 15,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Ahmad Musafir Khoirul Fattah",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 16,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Fazaa Hanifan Hidayatullah",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 17,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Awan Abdillah Akbar Dhiya`Ulhaq",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 18,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Muhammad Latif",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 19,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Imam Shofiuddin",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 20,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Emha Aji Putra Zaman",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 21,
+    "place": "PT. Panasonic Manufacturing Indonesia",
+    "LatLong": "-6.351393678723217, 106.860405065937",
+    "name": "Akbar Pratama Bimantoro",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 22,
+    "place": "CV Sejahtera Mandiri Solusindo",
+    "LatLong": "-7.279363141901178, 112.71782655798704",
+    "name": "Muhammad Rizal",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 23,
+    "place": "CV Sejahtera Mandiri Solusindo",
+    "LatLong": "-7.279363141901178, 112.71782655798704",
+    "images" : "/images/sindika.png",
+    "name": "Achmad Zahir Wajdi",
+    "status": "Online"
+  },
+  {
+    "id": 24,
+    "place": "CV Sejahtera Mandiri Solusindo",
+    "LatLong": "-7.279363141901178, 112.71782655798704",
+    "images" : "/images/sindika.png",
+    "name": "Achmad Habibie Fattahillah",
+    "status": "Online"
+  },
+  {
+    "id": 25,
+    "place": "CV Sejahtera Mandiri Solusindo",
+    "LatLong": "-7.279363141901178, 112.71782655798704",
+    "images" : "/images/sindika.png",
+    "name": "Muhammad Rizqy Ferdiansyah",
+    "status": "Online"
+  },
+  {
+    "id": 26,
+    "place": "PT Telkom Indonesia, Tribe of Agriculture",
+    "LatLong": "-6.236288722243103, 106.79889095664456",
+    "images" : "/images/sindika.png",
+    "name": "Muhammad Ilham Adi Pratama",
+    "status": "Offline"
+  },
+  {
+    "id": 27,
+    "place": "PT Telkom Indonesia, Tribe of Agriculture",
+    "LatLong": "-6.236288722243103, 106.79889095664456",
+    "images" : "/images/sindika.png",
+    "name": "Muhammad Hafid Azis",
+    "status": "Offline"
+  },
+  {
+    "id": 28,
+    "place": "PT Travelana Mandiri Sejahtera",
+    "LatLong": "-7.328891039617784, 112.79089377880227",
+    "images" : "/images/sindika.png",
+    "name": "Muhammad Naufal Ikrom",
+    "status": "Offline"
+  },
+  {
+    "id": 29,
+    "place": "PT Travelana Mandiri Sejahtera",
+    "LatLong": "-7.328891039617784, 112.79089377880227",
+    "images" : "/images/sindika.png",
+    "name": "Irawan Dwiarno Pangestu",
+    "status": "Offline"
+  },
+  {
+    "id": 30,
+    "place": "PT. Jatim Autocomp Indonesia",
+    "LatLong": "-7.550001733671199, 112.70688549691705",
+    "images" : "/images/sindika.png",
+    "name": "Muhammad Faishal Nabhan",
+    "status": "Offline"
+  },
+  {
+    "id": 31,
+    "place": "PT Inovasi Teknologi Solusindo",
+    "LatLong": "-7.292416111388473, 112.78197144811598",
+    "images" : "/images/sindika.png",
+    "name": "Obed Christian Sanjaya",
+    "status": "Offline"
+  },
+  {
+    "id": 32,
+    "place": "PT Inovasi Teknologi Solusindo",
+    "LatLong": "-7.292416111388473, 112.78197144811598",
+    "images" : "/images/sindika.png",
+    "name": "Yazid Rizki Eka Darmawan",
+    "status": "Offline"
+  },
+  {
+    "id": 33,
+    "place": "PT. Lumos Inisiatif Indonesia",
+    "LatLong": "-6.165014325940321, 106.76344425179776",
+    "images" : "/images/sindika.png",
+    "name": "Daffa Ridwhan Ramadhan",
+    "status": "Hybrid"
+  },
+  {
+    "id": 34,
+    "place": "PT. Garuda Maintenance Facility Aero Asia Tbk",
+    "LatLong": "-6.132875508091735, 106.64035112111151",
+    "images" : "/images/sindika.png",
+    "name": "Wiman Mahroja",
+    "status": "Offline"
+  },
+  {
+    "id": 35,
+    "place": "CV. PUNGGAWA DIGITAL KREATIF",
+    "LatLong": "-7.343302514571501, 112.7249285963406",
+    "name": "Mohamad Alvian Fazlur Febrian Dhika",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 36,
+    "place": "CV. PUNGGAWA DIGITAL KREATIF",
+    "LatLong": "-7.343302514571501, 112.7249285963406",
+    "name": "Matiin Muhammad Rajab",
+    "images" : "/images/sindika.png",
+    "status": "Online"
+  },
+  {
+    "id": 37,
+    "place": "PT. Mitra Informatika",
+    "LatLong": "-7.31671380678966, 112.68372374263332",
+    "name": "Bagus Setiyo Pambudi",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 38,
+    "place": "PT. Mitra Informatika",
+    "LatLong": "-7.31671380678966, 112.68372374263332",
+    "name": "Troy Fredellius Ardystama",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 39,
+    "place": "PT. Mitra Informatika",
+    "LatLong": "-7.31671380678966, 112.68372374263332",
+    "name": "Aradhea Rangga Maulana",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 40,
+    "place": "PT. Otak Kanan",
+    "LatLong": "-7.320297382177937, 112.73179479414506",
+    "name": "Ratri Maria Manik",
+    "images" : "/images/sindika.png",
+    "status": "Hybrid"
+  },
+  {
+    "id": 41,
+    "place": "PT. Webcare Digital Indonesia",
+    "LatLong": "-7.37377279899946, 112.7376191818278",
+    "name": "Andriana Wahyu Hapsari",
+    "images" : "/images/sindika.png",
+    "status": "Hybrid"
+  },
+  {
+    "id": 42,
+    "place": "PT. Webcare Digital Indonesia",
+    "LatLong": "-7.37377279899946, 112.7376191818278",
+    "name": "Maritza Retno Dwianti",
+    "images" : "/images/sindika.png",
+    "status": "Hybrid"
+  },
+  {
+    "id": 43,
+    "place": "PT Toyota Motor manufacturing Indonesia",
+    "LatLong": "-6.121592369162248, 106.89334425394244",
+    "name": "Lifta Annisa Husaina",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 44,
+    "place": "PT. Aplikasi Nusa Bangsa",
+    "LatLong": "-6.243807976177365, 106.86940042341642",
+    "name": "Hanif Nabila",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 45,
+    "place": "PT. Sekawan Media Informatika",
+    "LatLong": "-7.881339877336374, 112.63707539737658",
+    "name": "Aditya Bagus Ferryanto",
+    "images" : "/images/sindika.png",
+    "status": "Hybrid"
+  },
+  {
+    "id": 46,
+    "place": "Sub1 Studio",
+    "LatLong": "-7.343445661384041, 112.76888245451448",
+    "name": "Rizka Dwi Fajriyah Darmayanti",
+    "images" : "/images/sindika.png",
+    "status": "Hybrid"
+  },
+  {
+    "id": 47,
+    "place": "Kementrian Perhubungan Navigasi Kelas I",
+    "LatLong": "-7.204190572679061, 112.73333476073672",
+    "name": "Cantika Putri Romadhona",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  },
+  {
+    "id": 48,
+    "place": "PT. Bimasakti Multi Sinergi",
+    "LatLong": "-7.359261986067525, 112.74335609666099",
+    "name": "Adhika Putri Syafrina Bukka",
+    "images" : "/images/sindika.png",
+    "status": "Offline"
+  }
+]
